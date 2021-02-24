@@ -1,0 +1,22 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color:#44D7A1;
+    font-size: 65px;
+    font-family:cursive;
+}
+h2,h3{
+    color:#44D7A1;
+    font-family:cursive;
+}
+
+.c1{
+    background-color: #DFF9EF;
+    text-align:center;
+}
+.c2{
+    text-align: center;
+    font-family:cursive;
+}
